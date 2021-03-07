@@ -1,5 +1,5 @@
 global TOKEN
-TOKEN = "SOMETOKEN"
+TOKEN = ""
 global PREFIX
 PREFIX = "u!"
 	
